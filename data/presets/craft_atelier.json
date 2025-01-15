@@ -1,0 +1,9 @@
+{
+    "name": "Atelier",
+    "terms": ["art studio"],
+    "tags": {
+      "craft": "atelier"
+    },
+    "geometry": ["point", "area"],
+    "icon": "maki-art-gallery"
+  }
